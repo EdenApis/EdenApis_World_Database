@@ -5,7 +5,7 @@
 {"playerusername": "Solii101", "accesslevel": 9, "verified": 1}
 {"playerusername": "Echo1108", "accesslevel": 9, "verified": 1}
 {"playerusername": "Cobra_commander", "accesslevel": 9, "verified": 1}
-{"playerusername": "Cdkinetic", "accesslevel": 9, "verified": 1}
+{"playerusername": "CdKinetic", "accesslevel": 9, "verified": 1}
 {"playerusername": "nic nac", "accesslevel": 9, "verified": 1}
 {"playerusername": "VerbalDrop", "accesslevel": 9, "verified": 1}
 {"playerusername": "Dong", "accesslevel": 9, "verified": 1}
@@ -66,7 +66,6 @@
 {"playerusername": "Tartare2240", "accesslevel": 4, "verified": 1}
 {"playerusername": "Winterstride", "accesslevel": 4, "verified": 1}
 {"playerusername": "YukihiroD", "accesslevel": 4, "verified": 1}
-{"playerusername": "reinmaker", "accesslevel": 4, "verified": 1}
 {"playerusername": "Zeridyan 56ef", "accesslevel": 4, "verified": 1}
 {"playerusername": "Nutsuki", "accesslevel": 3, "verified": 1}
 {"playerusername": "Tomaae", "accesslevel": 3, "verified": 1}
