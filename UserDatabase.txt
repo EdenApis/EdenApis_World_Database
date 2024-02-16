@@ -5,18 +5,18 @@
 {"playerusername": "Solii101", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Echo1108", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Cobra_commander", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
-{"playerusername": "CdKinetic", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
+{"playerusername": "CdKinetic", "accesslevel": 9, "verified": 1, "patreonlevel": 3}
 {"playerusername": "nic nac", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
-{"playerusername": "VerbalDrop", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
+{"playerusername": "VerbalDrop", "accesslevel": 9, "verified": 1, "patreonlevel": 2}
 {"playerusername": "Dong", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
 {"playerusername": "SylphicXen", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Taylor07", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "MadKingWalrus", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "ƵɆɌØ", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
-{"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
+{"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 2}
 {"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
-{"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
+{"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 2}
 {"playerusername": "-Silvermoon-", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Spiderella007", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "TakenMori", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
@@ -30,19 +30,19 @@
 {"playerusername": "TheSugarSquid", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Tolfy!", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Duhleeuh", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
-{"playerusername": "DiztyDoo", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
+{"playerusername": "DiztyDoo", "accesslevel": 8, "verified": 1, "patreonlevel": 3}
 {"playerusername": "scollar", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "TimVuder", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "SarynJP", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "penny9553", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "CyberNekoVR", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
-{"playerusername": "PrionIron", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
-{"playerusername": "jjlong96", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
+{"playerusername": "PrionIron", "accesslevel": 6, "verified": 1, "patreonlevel": 2}
+{"playerusername": "jjlong96", "accesslevel": 7, "verified": 1, "patreonlevel": 2}
 {"playerusername": "FoxNyaa", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "DJ Lvna", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "amyxlol", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Mumma_Noma", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
-{"playerusername": "FTBiscuit", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
+{"playerusername": "FTBiscuit", "accesslevel": 6, "verified": 1, "patreonlevel": 2}
 {"playerusername": "albetta", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "andreblue", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Bwullys", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
@@ -59,7 +59,7 @@
 {"playerusername": "Mikybit", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "_nightguy", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "NitNatter", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
-{"playerusername": "Rekka93", "accesslevel": 6, "verified": 1, "patreonlevel": 3}
+{"playerusername": "Rekka93", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "RoyaleChaos", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Rwbystar", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "SuzaVT", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
