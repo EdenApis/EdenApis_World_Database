@@ -59,7 +59,7 @@
 {"playerusername": "Mikybit", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "_nightguy", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "NitNatter", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
-{"playerusername": "Rekka93", "accesslevel": 4, "verified": 6, "patreonlevel": 3}
+{"playerusername": "Rekka93", "accesslevel": 6, "verified": 1, "patreonlevel": 3}
 {"playerusername": "RoyaleChaos", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Rwbystar", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "SuzaVT", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
