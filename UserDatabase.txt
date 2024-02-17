@@ -1,5 +1,5 @@
 {"playerusername": "xxlilradxx", "accesslevel": 10, "verified": 1, "patreonlevel": 0}
-{"playerusername": "-lolmaxz-", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
+{"playerusername": "-lolmaxz-", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "LuSaffi", "accesslevel": 10, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Deldepth", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Solii101", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
