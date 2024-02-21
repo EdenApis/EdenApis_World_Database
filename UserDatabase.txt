@@ -14,7 +14,7 @@
 {"playerusername": "MadKingWalrus", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "ƵɆɌØ", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
-{"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 2}
+{"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 2}
 {"playerusername": "-Silvermoon-", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
@@ -69,5 +69,11 @@
 {"playerusername": "Zeridyan 56ef", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Nutsuki", "accesslevel": 3, "verified": 1, "patreonlevel": 2}
 {"playerusername": "Tomaae", "accesslevel": 3, "verified": 1, "patreonlevel": 2}
+{"playerusername": "PigOrganSoup", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
+{"playerusername": "Kronos50", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
+{"playerusername": "Nilym", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
+{"playerusername": "Mεlαnchølιc", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
+{"playerusername": "hushednights16", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
+{"playerusername": "Story Book", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "VerdeSkies", "accesslevel": 2, "verified": 1, "patreonlevel": 1}
 {"playerusername": "Think_Oasis", "accesslevel": 2, "verified": 1, "patreonlevel": 1}
