@@ -7,7 +7,7 @@
 {"playerusername": "Cobra_commander", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
 {"playerusername": "CdKinetic", "accesslevel": 9, "verified": 1, "patreonlevel": 3}
 {"playerusername": "nic nac", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
-{"playerusername": "VerbalDrop", "accesslevel": 9, "verified": 1, "patreonlevel": 2}
+{"playerusername": "VerbalDrop", "accesslevel": 9, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Dong", "accesslevel": 9, "verified": 1, "patreonlevel": 0}
 {"playerusername": "SylphicXen", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Taylor07", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
@@ -16,7 +16,7 @@
 {"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
-{"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 2}
+{"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 3}
 {"playerusername": "-Silvermoon-", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Spiderella007", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "TakenMori", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
@@ -36,13 +36,13 @@
 {"playerusername": "SarynJP", "accesslevel": 8, "verified": 1, "patreonlevel": 0}
 {"playerusername": "penny9553", "accesslevel": 7, "verified": 1, "patreonlevel": 0}
 {"playerusername": "CyberNekoVR", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
-{"playerusername": "PrionIron", "accesslevel": 6, "verified": 1, "patreonlevel": 2}
-{"playerusername": "jjlong96", "accesslevel": 7, "verified": 1, "patreonlevel": 2}
+{"playerusername": "PrionIron", "accesslevel": 6, "verified": 1, "patreonlevel": 3}
+{"playerusername": "jjlong96", "accesslevel": 7, "verified": 1, "patreonlevel": 3}
 {"playerusername": "FoxNyaa", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "DJ Lvna", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "amyxlol", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
 {"playerusername": "Mumma_Noma", "accesslevel": 6, "verified": 1, "patreonlevel": 0}
-{"playerusername": "FTBiscuit", "accesslevel": 6, "verified": 1, "patreonlevel": 2}
+{"playerusername": "FTBiscuit", "accesslevel": 6, "verified": 1, "patreonlevel": 3}
 {"playerusername": "albetta", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "andreblue", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Bwullys", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
