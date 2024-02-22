@@ -64,7 +64,6 @@
 {"playerusername": "Rwbystar", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "SuzaVT", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Tartare2240", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
-{"playerusername": "Winterstride", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "YukihiroD", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Zeridyan 56ef", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "Nutsuki", "accesslevel": 3, "verified": 1, "patreonlevel": 2}
