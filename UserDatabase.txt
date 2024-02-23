@@ -76,5 +76,5 @@
 {"playerusername": "Story Book", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
 {"playerusername": "VerdeSkies", "accesslevel": 2, "verified": 1, "patreonlevel": 1}
 {"playerusername": "Think_Oasis", "accesslevel": 2, "verified": 1, "patreonlevel": 1}
-{"playerusername": "Loamy", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
-{"playerusername": "Gizme", "accesslevel": 4, "verified": 1, "patreonlevel": 3}
+{"playerusername": "Loamy", "accesslevel": 1, "verified": 1, "patreonlevel": 0}
+{"playerusername": "Gizme", "accesslevel": 1, "verified": 1, "patreonlevel": 0}
