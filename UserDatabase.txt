@@ -1,5 +1,5 @@
 {"playerusername": "xxlilradxx", "accesslevel": 10, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "-lolmaxz-", "accesslevel": 10, "verified": 0, "patreonlevel": 3, "customsound": 1}
+{"playerusername": "-lolmaxz-", "accesslevel": 10, "verified": 1, "patreonlevel": 3, "customsound": 1}
 {"playerusername": "LuSaffi", "accesslevel": 10, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "krenki", "accesslevel": 10, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "Deldepth", "accesslevel": 9, "verified": 1, "patreonlevel": 0, "customsound": 0}
