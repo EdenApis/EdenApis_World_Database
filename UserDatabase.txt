@@ -29,7 +29,7 @@
 {"playerusername": "HiyoriSteele", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "SaintOfAether", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "speedfreek16", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "TheSugarSquid", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
+{"playerusername": "TheSugarSquid", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 8}
 {"playerusername": "Tolfy!", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Duhleeuh", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "DiztyDoo", "accesslevel": 8, "verified": 1, "patreonlevel": 3, "customsound": 0}
@@ -40,7 +40,7 @@
 {"playerusername": "CyberNekoVR", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "PrionIron", "accesslevel": 6, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "jjlong96", "accesslevel": 7, "verified": 1, "patreonlevel": 1, "customsound": 0}
-{"playerusername": "FoxNyaa", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
+{"playerusername": "FoxNyaa", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 4}
 {"playerusername": "DJ Lvna", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "amyxlol", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Mumma_Noma", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
@@ -57,7 +57,7 @@
 {"playerusername": "Kether_VR", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "KingGrizzly", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "Kitke", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
-{"playerusername": "Bidul127", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
+{"playerusername": "Bidul127", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 1}
 {"playerusername": "Mikybit", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "_nightguy", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "NitNatter", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
@@ -65,7 +65,7 @@
 {"playerusername": "RoyaleChaos", "accesslevel": 8, "verified": 1, "patreonlevel": 3, "customsound": 2}
 {"playerusername": "Rwbystar", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "SuzaVT", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
-{"playerusername": "Tartare2240", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
+{"playerusername": "Tartare2240", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 3}
 {"playerusername": "YukihiroD", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 8}
 {"playerusername": "Zeridyan 56ef", "accesslevel": 1, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Nutsuki", "accesslevel": 3, "verified": 1, "patreonlevel": 1, "customsound": 0}
@@ -78,7 +78,7 @@
 {"playerusername": "Story Book", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
 {"playerusername": "VerdeSkies", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "Think_Oasis", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
-{"playerusername": "Alastair156", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
+{"playerusername": "Alastair156", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 2}
 {"playerusername": "buttercat88", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "Possessed26", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
 {"playerusername": "meetxj9", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
@@ -86,5 +86,6 @@
 {"playerusername": "Natureskiss", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 3}
 {"playerusername": "FangPast", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
 {"playerusername": "Toxiccitylove", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
+{"playerusername": "Jonathanlh", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 1}
 {"playerusername": "Akuma3145", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "PanzerKatze", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
