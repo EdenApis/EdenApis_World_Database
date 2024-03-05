@@ -89,5 +89,5 @@
 {"playerusername": "Jonathanlh", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 1}
 {"playerusername": "Akuma3145", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "PanzerKatze", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
-{"playerusername": "Gizme", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 5}
+{"playerusername": "Gizme", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 5}
 
