@@ -82,7 +82,7 @@
 {"playerusername": "buttercat88", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "Possessed26", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 2}
 {"playerusername": "meetxj9", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 8}
-{"playerusername": "reinmaker", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
+{"playerusername": "Reinmaker", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "E․ Heckler", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 3}
 {"playerusername": "Natureskiss", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 3}
 {"playerusername": "FangPast", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
