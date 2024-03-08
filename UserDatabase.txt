@@ -36,7 +36,7 @@
 {"playerusername": "scollar", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "TimVuder", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "SarynJP", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "penny9553", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
+{"playerusername": "Penny9553", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "CyberNekoVR", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "PrionIron", "accesslevel": 6, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "jjlong96", "accesslevel": 7, "verified": 1, "patreonlevel": 1, "customsound": 0}
