@@ -86,7 +86,7 @@
 {"playerusername": "E․ Heckler", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 3}
 {"playerusername": "Natureskiss", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 3}
 {"playerusername": "FangPast", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 0}
-{"playerusername": "Toxiccitylove", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 7}
+{"playerusername": "toxiccitylove", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 7}
 {"playerusername": "Jonathanlh", "accesslevel": 4, "verified": 1, "patreonlevel": 3, "customsound": 4}
 {"playerusername": "Akuma3145", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "PanzerKatze", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
