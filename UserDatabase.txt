@@ -14,7 +14,7 @@
 {"playerusername": "WrathGrim", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "MadKingWalrus", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "ƵɆɌØ", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
+{"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 4}
 {"playerusername": "VRVerity", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
@@ -34,7 +34,7 @@
 {"playerusername": "Duhleeuh", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "DiztyDoo", "accesslevel": 8, "verified": 1, "patreonlevel": 3, "customsound": 0}
 {"playerusername": "scollar", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "TimVuder", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
+{"playerusername": "TimVuder", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 8}
 {"playerusername": "SarynJP", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Penny9553", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "CyberNekoVR", "accesslevel": 6, "verified": 1, "patreonlevel": 0, "customsound": 0}
