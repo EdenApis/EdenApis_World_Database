@@ -23,7 +23,7 @@
 {"playerusername": "Spiderella007", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "TakenMori", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "ʟᴀᴅʏ ʟɪʟɪᴛʜ's", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 4}
-{"playerusername": "Bloodtooth_", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 6}
+{"playerusername": "Bloodtooth_", "accesslevel": 7, "verified": 1, "patreonlevel": 1, "customsound": 6}
 {"playerusername": "JPominiumᵀᴹ", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Simply_Holy", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "HiyoriSteele", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
