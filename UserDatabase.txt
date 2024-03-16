@@ -10,20 +10,20 @@
 {"playerusername": "VerbalDrop", "accesslevel": 9, "verified": 1, "patreonlevel": 3, "customsound": 7}
 {"playerusername": "Dong", "accesslevel": 9, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "SylphicXen", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "Taylor07", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 4}
+{"playerusername": "Taylor07", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 4}
 {"playerusername": "WrathGrim", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "MadKingWalrus", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "ƵɆɌØ", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 4}
-{"playerusername": "VRVerity", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 0}
+{"playerusername": "VRVerity", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 0}
+{"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "-Silvermoon-", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Spiderella007", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "TakenMori", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "ʟᴀᴅʏ ʟɪʟɪᴛʜ's", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 4}
-{"playerusername": "Bloodtooth_", "accesslevel": 7, "verified": 1, "patreonlevel": 1, "customsound": 6}
+{"playerusername": "Bloodtooth_", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 6}
 {"playerusername": "JPominiumᵀᴹ", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Simply_Holy", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "HiyoriSteele", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
