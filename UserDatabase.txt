@@ -17,7 +17,7 @@
 {"playerusername": "DE_fokk", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 4}
 {"playerusername": "VRVerity", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "PupZieCorn", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
-{"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 0, "customsound": 0}
+{"playerusername": "Coolman172", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "Xayuzi", "accesslevel": 8, "verified": 1, "patreonlevel": 1, "customsound": 0}
 {"playerusername": "-Silvermoon-", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
 {"playerusername": "Spiderella007", "accesslevel": 7, "verified": 1, "patreonlevel": 0, "customsound": 0}
