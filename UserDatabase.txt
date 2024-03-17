@@ -92,3 +92,4 @@
 {"playerusername": "PanzerKatze", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 0}
 {"playerusername": "Gizme", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 5}
 {"playerusername": "Crysillis", "accesslevel": 3, "verified": 1, "patreonlevel": 2, "customsound": 5}
+{"playerusername": "ElusiveSausage", "accesslevel": 2, "verified": 1, "patreonlevel": 1, "customsound": 0}
